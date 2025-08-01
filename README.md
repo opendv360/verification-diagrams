@@ -36,6 +36,18 @@ Perfect for:
 
 Licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
 
----
+## Credits
 
-**Preparing the next generation of Design Verification engineers**
+These talented designers brought OpenDV concepts to life through clear, informative diagrams that help the verification community understand complex methodologies.
+
+### Irina Zhivotovskaia
+**Graphic Designer, Calligrapher**
+[LinkedIn](https://www.linkedin.com/in/irina-zhivotovskaia/)
+
+### Uliana Iotchenko  
+**Graphic Designer, Illustrator**
+[LinkedIn](https://www.linkedin.com/in/uliana-iotchenko-25430a21b)
+
+### Isabella Chen
+**Graphic Designer, Brand Designer**
+[LinkedIn](https://www.linkedin.com/in/isabellachen24/)
