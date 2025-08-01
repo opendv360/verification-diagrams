@@ -10,7 +10,7 @@ Visit [opendv.net](https://opendv.net/) to explore our complete educational plat
 
 ## What Are These Diagrams For?
 
-These diagrams visually explain key verification concepts including:
+These diagrams visually explain key verification concepts, including:
 
 - **Testbench Architecture** - How to structure verification environments
 - **The Three Pillars** - Stimulus, Checking, and Coverage
@@ -20,13 +20,6 @@ These diagrams visually explain key verification concepts including:
 - **Assertion-Based Verification** - SystemVerilog assertions (SVA)
 
 ## Quick Start
-
-Browse the `/diagrams/` folder to find:
-- **fundamentals/** - Basic verification concepts
-- **methodologies/** - UVM, formal verification
-- **protocols/** - Industry standard protocols
-- **components/** - Memory, CPU verification
-
 Each diagram is available in multiple formats:
 - **PNG** - High-resolution images
 - **JPG** - Compressed images for web
