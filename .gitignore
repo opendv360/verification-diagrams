@@ -1,0 +1,90 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Image editing temporary files
+*.psd~
+*.ai~
+*.sketch~
+*.fig~
+*.backup
+
+# Image conversion artifacts
+*_converted.*
+*_resized.*
+*_optimized.*
+
+# Raw/source files (large format)
+*.tiff
+*.tif
+*.bmp
+*.raw
+*.psd
+*.ai
+*.eps
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+*~
+
+# Build/processing artifacts
+/output/
+/processed/
+/temp/
+/cache/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Documentation build files
+/docs/_build/
+/docs/.doctrees/
+
+# Python files (for scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Node.js files (if using any JS tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large files that shouldn't be in git
+*.iso
+*.dmg
+*.exe
+
+# Backup files
+*.backup
+*.bak
+*.old
