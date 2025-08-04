@@ -1,6 +1,6 @@
 # OpenDV Verification Diagrams
 
-A collection of professional diagrams and flowcharts for learning and teaching hardware design verification.
+This collection includes educational diagrams and flowcharts to learn hardware design verification.
 
 ## About OpenDV
 
@@ -41,13 +41,10 @@ Licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
 These talented designers brought OpenDV concepts to life through clear, informative diagrams that help the verification community understand complex methodologies.
 
 ### Irina Zhivotovskaia
-**Graphic Designer, Calligrapher**
-[LinkedIn](https://www.linkedin.com/in/irina-zhivotovskaia/)
+*Graphic Designer, Calligrapher* - [LinkedIn](https://www.linkedin.com/in/irina-zhivotovskaia/)
 
 ### Uliana Iotchenko  
-**Graphic Designer, Illustrator**
-[LinkedIn](https://www.linkedin.com/in/uliana-iotchenko-25430a21b)
+*Graphic Designer, Illustrator* - [LinkedIn](https://www.linkedin.com/in/uliana-iotchenko-25430a21b)
 
 ### Isabella Chen
-**Graphic Designer, Brand Designer**
-[LinkedIn](https://www.linkedin.com/in/isabellachen24/)
+*Graphic Designer, Brand Designer* - [LinkedIn](https://www.linkedin.com/in/isabellachen24/)
